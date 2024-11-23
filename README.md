@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.... )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Antony Thavanayagam Joel Nithushan</h1>
 <h3 align="center">A aspiring Web-Developer from Sri Lanka</h3>
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47du8ntiji1k6uh97cj9x187xie52ipnngnnpt7skx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
