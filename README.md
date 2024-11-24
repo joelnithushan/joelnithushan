@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antony Thavanayagam Joel Nithushan</h1>
 <h3 align="center">A aspiring Web-Developer from Sri Lanka</h3>
+<h4 align="left">🎓 BSc (Hons) Software Engineering Student</h4>
+<h4 align="left">🚀 Passionate about Java, and JavaScript</h4>
+<h4 align="left">💻 Freelancer in Web-devolpment & Graphic designing fields</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
