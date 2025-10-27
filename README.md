@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/joel-nithushan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/White_Wolfs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="40"/>
-  </a>
+ 
 </p>
 
 ---
