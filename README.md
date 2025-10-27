@@ -4,10 +4,10 @@
 ---
 
 ### 💡 About Me  
-🎓 **Software Engineering Undergraduate** at [Northern University, Sri Lanka]  
+🎓 **Software Engineering Undergraduate** at [SLIIT Northern Uni, Sri Lanka]  
 💻 Passionate about **Java** and **JavaScript**  
-🧩 Experienced **Freelancer** in *Web Development* & *Graphic Design*  
-🌱 Currently exploring **Full Stack Development (MERN & Firebase)**  
+🧩 Experienced **Freelancer** in *Web Development* & *Graphic Design*
+🌱 Currently exploring **Full Stack Development**  
 ⚡ Fun fact: I love turning real-world problems into smart, digital solutions!
 
 ---
@@ -26,7 +26,7 @@
 
 ### 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,nodejs,react,mysql,firebase,linux,git,figma,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,nodejs,react,mysql,firebase,linux,git,postman,figma,vscode" height="40"/>
 </p>
 
 ---
