@@ -5,7 +5,7 @@
 
 ### 💡 About Me  
 🎓 **Software Engineering Undergraduate** at [SLIIT Northern Uni, Sri Lanka]  
-💻 Passionate about **Java** and **JavaScript**  
+💻 Passionate about **Java** and **JavaScript**  | IoT Enthusiasit
 🧩 Experienced **Freelancer** in *Web Development* & *Graphic Design*
 🌱 Currently exploring **Full Stack Development**  
 ⚡ Fun fact: I love turning real-world problems into smart, digital solutions!
