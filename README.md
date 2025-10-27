@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/joel-nithushan" target="_blank">
+  <a href="https://www.linkedin.com/in/joel-nithushan-a-t" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
  
