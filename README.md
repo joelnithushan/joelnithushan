@@ -49,7 +49,10 @@ Software Engineering undergraduate with experience in **web development, mobile 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/joel-nithushan-a-t/) | [Email](mailto:joelnithushan6@gmail.com) | [Portfolio](https://joelnithushan.lk) | [GitHub](https://github.com/joelnithushan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-nithushan-a-t/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelnithushan6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joelnithushan.lk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joelnithushan)
 
 ---
 
