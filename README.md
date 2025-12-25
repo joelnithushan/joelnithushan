@@ -1,7 +1,7 @@
 # Hello there! I'm **Joel Nithushan Antony Thavanayagam**
 
 **BSc (Hons) Software Engineering Student (3rd Year)** | Jaffna, Sri Lanka  
-**MERN Stack | Android | IoT | AI Enthusiast**
+**MERN Stack | Java | Python | Android | IoT | AI Enthusiast**
 
 ---
 
