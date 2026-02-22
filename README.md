@@ -2,7 +2,7 @@
 
 **BSc (Hons) Software Engineering Student (3rd Year)** | Jaffna, Sri Lanka  
 **JavaScript | Java | Python | Android | IoT | AI Enthusiast**  
-**Love in React & Next.js**
+**Love in React.js & Next.js**
 
 ---
 
