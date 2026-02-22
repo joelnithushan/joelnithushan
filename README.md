@@ -1,7 +1,8 @@
 # Hello there! I'm **Joel Nithushan Antony Thavanayagam**
 
 **BSc (Hons) Software Engineering Student (3rd Year)** | Jaffna, Sri Lanka  
-**MERN Stack | Java | Python | Android | IoT | AI Enthusiast**
+**JavaScript | Java | Python | Android | IoT | AI Enthusiast**
+**Love in React & Next.js**
 
 ---
 
